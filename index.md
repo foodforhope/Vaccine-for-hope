@@ -15,7 +15,7 @@ Venue:
 Venue of the vaccination to be confirmed
 
 How to book:
-Currently they are accepting appointment thorough  [this]( https://www.apolloclinic.com/lp/vaccination/.) link 
+Currently they are accepting appointment thorough  [this link ]( https://www.apolloclinic.com/lp/vaccination/.) 
 
 
  
