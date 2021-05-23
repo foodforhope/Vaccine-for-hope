@@ -1,9 +1,7 @@
-# Vaccine For Hope
 
-## Hi we are team FoodForHope
 
 <!-- blank line -->
-
+Welcome SDA residents
 <!-- blank line -->
 
 Hello All,
