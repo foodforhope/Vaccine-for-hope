@@ -32,6 +32,6 @@ PS: This is open for all SDA residents, irrespective of phase or wing. Please do
 
 Thanks,
 Team Food For Hope.
-https://foodforhope.github.io/
+this[https://foodforhope.github.io/](https://foodforhope.github.io/)
 
 
